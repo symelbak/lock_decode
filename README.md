@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Lock and Decode</h1>
+<h1 align="center">Lock and Decode</h1>
 This repository contains the code implementation for the paper
 
 ## 📙 Description
